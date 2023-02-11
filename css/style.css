@@ -163,7 +163,7 @@ a {
 
 @media (max-width: 1460px) {
     body {
-        padding: 1.8rem;
+        padding: 2.2rem 1.8rem;
     }
     .svgimg {
         padding: 3rem;
