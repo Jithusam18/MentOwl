@@ -162,9 +162,7 @@ a {
 }
 
 @media (max-width: 1460px) {
-    body {
-        padding: 2.7rem 1.8rem;
-    }
+    
     .svgimg {
         padding: 3rem;
     }
@@ -175,6 +173,10 @@ a {
     }
 }
 @media (max-width: 991px) {
+    body {
+        padding: 2.7rem 1.8rem;
+    }
+    
     h2,
     h3,
     p {
